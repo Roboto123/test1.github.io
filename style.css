@@ -1,0 +1,13 @@
+body {
+    background-image: url("webdevassets/misc/papyrus.png");
+}
+
+.jumbotron {
+    background-color: antiquewhite;
+    color: red;
+    border: 5px solid;
+}
+
+.jumbotron * {
+    padding-left: 10px;
+}
